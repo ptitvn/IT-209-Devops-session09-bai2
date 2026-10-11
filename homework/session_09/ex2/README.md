@@ -4,10 +4,7 @@
 ---
 
 ### 1. Thông tin chung
-- **Môn học:** IT-209 - DevOps
-- **Session:** Session 09 - Containerization & Docker
-- **Bài thực hành:** Bài 2 - Khởi chạy Web Server Nginx với Port Mapping
-- **Đường dẫn nộp bài GitHub:** `homework/session_09/ex2/README.md`
+
 - **Mục tiêu:**
   - Chạy thử một Web Server Nginx dạng container ở chế độ ngầm (`-d`).
   - Ánh xạ cổng mạng (`-p 8080:80`) từ máy host sang container.
